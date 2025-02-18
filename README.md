@@ -6,6 +6,6 @@ Before Running:
 3. All controls and dashboards are included in the "Executor.xlsm" file.
 
 Proxies for Risk-Free Rates:
-US: DTB3 /n
-UK: IRLTLT01GBM156N /n
-AU: IR3TIB01AUM156N /n
+US: DTB3 |
+ UK: IRLTLT01GBM156N |
+ AU: IR3TIB01AUM156N 
